@@ -13,6 +13,7 @@ metadata:
             package: 22e56280264b02562e7c82c6a224bad6386e8bdd4bc7c7504ab8f92bbb46bc66
         lastCertifiedTimestamp: "2021-12-07T17:11:14.072258-06:00"
         certifiedOpenShiftVersions: 4.7.0
+        supportedOpenShiftVersions: 4.8.0
     chart:
         name: samplechart
         home: ""
