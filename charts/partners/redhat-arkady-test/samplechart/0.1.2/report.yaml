@@ -6,7 +6,7 @@ metadata:
         profile:
             VendorType: partner
             version: v1.1
-        chart-uri: https://github.com/ansvu/samplechart/releases/download/samplechart-0.1.1/samplechart-0.1.1.tgz
+        chart-uri: https://github.com/ansvu/samplechart2/releases/download/samplechart-0.1.2/samplechart-0.1.2.tgz
         digest: sha256:7eb4836e9b39d05743a44320b4b9d057269409fa0605c6c797a960221a63e214
         digests:
             chart: sha256:7eb4836e9b39d05743a44320b4b9d057269409fa0605c6c797a960221a63e214
@@ -17,7 +17,7 @@ metadata:
         name: samplechart
         home: ""
         sources: []
-        version: 0.1.1
+        version: 0.1.2
         description: A Helm chart for Kubernetes
         keywords: []
         maintainers: []
