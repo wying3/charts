@@ -84,4 +84,4 @@ results:
   - check: v1.0/contains-test
     type: Mandatory
     outcome: PASS
-    reason: Chart test files exist
+    reason: Chart test files exist text
