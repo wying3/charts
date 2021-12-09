@@ -14,7 +14,7 @@ metadata:
         lastCertifiedTimestamp: "2021-12-07T17:11:14.072258-06:00"
         certifiedOpenShiftVersions: 4.7.0
         supportedOpenShiftVersions: 4.8.0
-        testedOpenShiftVersion: 4.7.0
+        testedOpenShiftVersion: 4.8.0
     chart:
         name: samplechart
         home: ""
