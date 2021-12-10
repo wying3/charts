@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 apiversion: v1
 kind: verify-report
 metadata:
@@ -152,3 +153,6 @@ results:
     outcome: PASS
     reason: Values file exist
 >>>>>>> 2d3fd19... add samplechart report
+=======
+Using config file: ../samplechart/config.yaml
+>>>>>>> b44d421... update asc file
